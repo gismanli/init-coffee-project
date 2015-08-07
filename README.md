@@ -29,7 +29,7 @@ How to use
 
 1. clone this repo
 	```
-	git clone git@github.com:luochen1990/empty-coffee-project.git
+	git clone git@github.com:gismanli/init-coffee-project.git
 	```
 2. install npm packages
 	```
